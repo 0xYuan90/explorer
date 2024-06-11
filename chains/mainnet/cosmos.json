@@ -1,6 +1,6 @@
 {
-    "chain_name": "cosmos",
-    "registry_name": "cosmoshub",
+    "chain_name": "artela",
+    "registry_name": "Artela",
     "api": [
         {"provider": "notional", "address": "https://api-cosmoshub-ia.cosmosia.notional.ventures"},
         {"provider": "blockapsis", "address": "https://lcd-cosmoshub.blockapsis.com:443"},
